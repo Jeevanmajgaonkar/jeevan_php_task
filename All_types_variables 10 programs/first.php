@@ -9,3 +9,8 @@ $sum = $a + $b;
 echo  $sum;
 
 ?>
+<?php
+echo "task done";
+echo "yes";
+echo "no";
+?>
